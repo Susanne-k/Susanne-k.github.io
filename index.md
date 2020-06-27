@@ -4,4 +4,5 @@ William Bradley „Brad“ Pitt (* 18. Dezember 1963 in Shawnee, Oklahoma) ist e
 * Schauspieler
 * Produzent
 * Executive Producer
+> A Quote
 
