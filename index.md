@@ -5,4 +5,5 @@ William Bradley „Brad“ Pitt (* 18. Dezember 1963 in Shawnee, Oklahoma) ist e
 * Produzent
 * Executive Producer
 > A Quote
+<img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/435984/1868028/main-image"/>
 
